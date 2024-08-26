@@ -1,0 +1,25 @@
+.email-list-container {
+    width: 33.333%;
+    background-color: white;
+    overflow-y: auto;
+  }
+  
+  .thread-item {
+    padding: 1rem;
+    border-bottom: 1px solid #e5e7eb;
+    cursor: pointer;
+  }
+  
+  .thread-item:hover {
+    background-color: #f3f4f6;
+  }
+  
+  .thread-subject {
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+  }
+  
+  .thread-snippet {
+    font-size: 0.875rem;
+    color: #6b7280;
+  }

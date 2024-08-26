@@ -1,0 +1,26 @@
+.sidebar {
+    width: 16rem;
+    background-color: #1f2937;
+    color: white;
+    padding: 1rem;
+  }
+  
+  .sidebar-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .sidebar-menu {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar-menu-item {
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .sidebar-menu-item:hover {
+    text-decoration: underline;
+  }

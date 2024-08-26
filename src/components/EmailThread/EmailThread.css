@@ -1,0 +1,38 @@
+.email-thread-container {
+    width: 66.667%;
+    background-color: white;
+    padding: 1rem;
+    overflow-y: auto;
+  }
+  
+  .close-button {
+    margin-bottom: 1rem;
+    padding: 0.25rem 0.5rem;
+    background-color: #e5e7eb;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  .thread-subject {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .thread-body {
+    margin-bottom: 1rem;
+  }
+  
+  .reply-button {
+    background-color: #3b82f6;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  .reply-button:hover {
+    background-color: #2563eb;
+  }
